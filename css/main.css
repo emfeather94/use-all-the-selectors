@@ -10,7 +10,7 @@ footer {
   font-size: 1.5rem;
 }
 
-nav ul {
+nav > ul {
   font-family: sans-serif;
 }
 
@@ -20,4 +20,20 @@ nav ul {
 
 .wrapper {
   background-color: #eee8d5;
+}
+
+contents, favs, facts, types {
+  color: #93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn + strong {
+  color: #fff;
+}
+
+a:not(.no-highlight) {
+  background-color: #719e07
 }
