@@ -35,7 +35,7 @@ h2 + .dfn > strong {
 }
 
 a:not(.no-highlight) {
-  background-color: #719e07
+  background-color: #719e07;
 }
 
 [rel="external"] {
