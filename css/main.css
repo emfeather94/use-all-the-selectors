@@ -14,7 +14,7 @@ nav > ul {
   font-family: sans-serif;
 }
 
-.header {
+h1 {
   text-transform: uppercase;
 }
 
@@ -22,7 +22,7 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-contents, favs, facts, types {
+h2 {
   color: #93a1a1;
 }
 
